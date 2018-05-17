@@ -7,8 +7,8 @@ import numpy as np
 import sys
 
 
-#filein = sys.argv[-1:]
-filein = 'run_it019_data.star'
+filein = sys.argv[-1]
+#filein = 'run_it017_data.star'
 fileout = 'clean_data'
 data = pd.read_csv(filein, header = 35, sep='\s+|\t+|\n+', engine = 'python', usecols=[2,28], names=['helixID','2Dclass'])
 

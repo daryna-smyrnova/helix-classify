@@ -1,0 +1,21 @@
+2018/05/17 15:32:53	incomplete         	  2052/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j0s.pdb proj/3j0s.mrc
+2018/05/17 15:33:14	2018/05/17 15:33:28	  2069/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j0s.pdb proj/3j0s.mrc
+2018/05/17 15:33:53	2018/05/17 15:33:55	  2109/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc
+2018/05/17 15:35:28	2018/05/17 15:35:31	  2150/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --res 4
+2018/05/17 15:35:41	2018/05/17 15:35:48	  2161/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --res 8
+2018/05/17 15:35:54	2018/05/17 15:35:55	  2172/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --res 2
+2018/05/17 15:36:39	2018/05/17 15:36:39	  2185/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --quick
+2018/05/17 15:36:55	2018/05/17 15:36:56	  2201/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --quick
+2018/05/17 15:38:03	2018/05/17 15:38:06	  2247/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --res 4
+2018/05/17 15:38:19	2018/05/17 15:38:21	  2261/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --res 2
+2018/05/17 15:38:43	2018/05/17 15:38:45	  2275/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --apix 1.5
+2018/05/17 15:40:27	2018/05/17 15:40:29	  2323/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --apix 1.5 --full
+2018/05/17 15:41:52	2018/05/17 15:41:56	  2361/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --apix 1.5 --addsym c2
+2018/05/17 15:43:13	2018/05/17 15:43:24	  2408/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j0s.pdb proj/3j0s.mrc --apix 1.5
+2018/05/17 15:43:42	2018/05/17 15:43:43	  2428/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j0s.pdb proj/3j0s.mrc --apix 1.5 --quick
+2018/05/17 15:44:51	2018/05/17 15:44:51	  2479/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --apix 1.5 --addsym c2 --quick
+2018/05/17 15:58:54	2018/05/17 15:58:54	  3593/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb proj/3j8i.mrc --apix 1.5 --addsym c2 --quick --center
+2018/05/17 16:01:54	2018/05/17 16:01:56	  3677/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb mrc/3j8i.mrc --apix 2 --addsym c2 --center
+2018/05/17 16:02:20	2018/05/17 16:02:22	  3707/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j8i.pdb mrc/3j8i.mrc --apix 2 --addsym c2 --center
+2018/05/17 16:03:27	2018/05/17 16:03:37	  3771/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py pdb/3j0s.pdb mrc/3j0s.mrc --apix 2 --center
+2018/05/17 16:11:05	2018/05/17 16:11:11	  4241/    -1	daryna-ubuntu-i7	/home/daryna/EMAN2/bin/e2pdb2mrc.py --apix 2.0 --res 5 --box 250 center/3j0s.pdb mrc/3j0s.mrc
